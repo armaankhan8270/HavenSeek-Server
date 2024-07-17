@@ -1,10 +1,11 @@
-for client side go to https://github.com/armaankhan8270/havenSeek-Client
+
 
 <h1>Live At</h1>
 <a href='https://havenseekarmaankhan.netlify.app/'>Live</a>
 
 
 For Serve side go to https://github.com/armaankhan8270/HavenSeek
+for client side go to https://github.com/armaankhan8270/havenSeek-Client
 
 # HavenSeek
 
