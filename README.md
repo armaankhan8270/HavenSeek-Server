@@ -1,7 +1,7 @@
 
 
 <h1>Live At</h1>
-<a href='https://havenseekarmaankhan.netlify.app/'>Live</a>
+<a href='https://havenseekarmaan.netlify.app/'>Live</a>
 
 
 For Serve side go to https://github.com/armaankhan8270/HavenSeek
